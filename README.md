@@ -15,6 +15,7 @@
 
 ## 课程补充学习笔记
 - [Lesson 1](https://github.com/Guigulive/Wiki/wiki/Lesson-1-%E8%A1%A5%E5%85%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+- [Lesson 2](https://github.com/Guigulive/Wiki/wiki/Lesson-2-%E8%A1%A5%E5%85%85%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 
 ## 课程知识拓展
 
@@ -28,3 +29,7 @@
 - [2018.3.13](daily-review/posts/3/2018.3.13.md)
 - [2018.3.12](daily-review/posts/3/2018.3.12.md)
 - [2018.3.11](daily-review/posts/3/2018.3.11.md)
+
+## 分享会复盘
+
+- [对Dfinity共识机制的简单介绍](weekly-seminar/2018.03.17-dfinity/2018.03.17-dfinity-consensus.md) - 题华龙
